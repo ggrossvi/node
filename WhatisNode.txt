@@ -1,0 +1,3 @@
+Node js javascript can use it on the server side to use for backend
+can javascript on server not just on browser.  
+Node and js are both providing bindings when they are instantiated
